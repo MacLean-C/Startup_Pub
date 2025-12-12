@@ -67,7 +67,7 @@ This step reduced the corpus by roughly 50%, leaving us with a focused set of **
 ### Key Findings  
 
 #### 1. Research Diversity Varies Widely  
-While most startup-linked articles were single-discipline (e.g., purely engineering or physics), a meaningful subset showed strong interdisciplinary engagement—a signal of higher innovation potential.  
+While most startup-linked articles were single-discipline (e.g., purely engineering or physics), a meaningful subset showed strong interdisciplinary engagement - a signal of higher innovation potential.  
 
 #### 2. High-Interdisciplinary Work Is Rare but Promising  
 About **4%** of articles combined fields from distinct domains (e.g., Physics + Computer Science, or Chemistry + Medicine). These cross-domain papers often represent novel approaches that could lead to breakthroughs in energy tech.  
