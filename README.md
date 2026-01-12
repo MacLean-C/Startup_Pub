@@ -84,9 +84,7 @@ Matching names between company officers and academic authors is inherently noisy
 
 #### Scalability  
 The entire pipeline is automated and can be rerun as new data becomes available. This makes it suitable for ongoing monitoring of the startup landscape.  
-
-#### Open Source Access  
-The code for this project is publicly available on [GitHub](https://github.com/MacLean-C/Startup_Pub/tree/main), allowing others to replicate, extend, or adapt the methodology for other sectors.  
+ 
 
 ---
 
